@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+font-size: 40px;
+}
+
+h2 {
+font-size: 30px;
+}
+
+.established {
+font-style: italic;
+}
+
+h1, h2, p {
+text-align: center;
+}
+.menu {
+width: 100%;
+background-color: rgb(164, 218, 228);
+margin-left: auto;
+margin-right: auto;
+padding: 50px;
+max-width: 500px;
+}
+.item p {
+display: inline-block;
+}
+.food-name {
+text-align: left;
+width: 75%;
+}
+.price {
+text-align: right;
+width: 25%
+}
+
